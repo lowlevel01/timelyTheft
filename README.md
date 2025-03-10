@@ -5,4 +5,4 @@ A POC of malicious chrome extension that shows the time but steals the cookies i
 ![time](images/timelytheft2.png)
 
 #### But it sends all the cookies to a webhook:
-![webhook](images/timelytheft.png)
+![webhook](images/timelytheft1.png)
